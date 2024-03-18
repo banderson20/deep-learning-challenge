@@ -7,7 +7,7 @@ Results: Using bulleted lists and images to support your answers, address the fo
 Data Preprocessing
 
 What variable(s) are the target(s) for your model?
-  The target of my model was the variable IS_SUCCESSFUL
+  <br>The target of my model was the variable IS_SUCCESSFUL</br>
 What variable(s) are the features for your model?
   The variables that are the features of my model are APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS and ASK_AMT. 
 What variable(s) should be removed from the input data because they are neither targets nor features?
