@@ -22,4 +22,4 @@ Were you able to achieve the target model performance?
 What steps did you take in your attempts to increase model performance?
 <br>I used the keras_tuner to optimize the model as best as I could.</br>
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
-<br>In summary this deep learning model isn't the best as prediction whether a loan applicant will be successful. I would recommed uisng a random forest model as it is very good at prediction as well as showing which features are the most important for the models success.</br>
+<br>In summary this deep learning model isn't the best at predicting whether a loan applicant will be successful as it got an accuracy of .75. I would recommed uisng a random forest model as it is very good at prediction as well as showing which features are the most important for the models success.</br>
