@@ -16,7 +16,7 @@ What variable(s) should be removed from the input data because they are neither 
 
 Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-  <br>I selected this for my neural network model. {'activation': 'relu',
+  <br>I selected this for my neural network model. <br>{'activation': 'relu',
  'first_units': 19,
  'num_layers': 4,
  'units_0': 25,
@@ -29,7 +29,7 @@ How many neurons, layers, and activation functions did you select for your neura
  'tuner/initial_epoch': 7,
  'tuner/bracket': 2,
  'tuner/round': 2,
- 'tuner/trial_id': '0042'}. I am a little unsure how to read this model that keras_tuner provided me but it seems like there are 4 layers with the amount in each being 25, 17, 3, 25. I am unsure as to what units_4 and units_5 mean though. The activation is relu though. </br>
+ 'tuner/trial_id': '0042'}.</br> I am a little unsure how to read this model that keras_tuner provided me but it seems like there are 4 layers with the amount in each being 25, 17, 3, 25. I am unsure as to what units_4 and units_5 mean though. The activation is relu though. </br>
 Were you able to achieve the target model performance?
 <br>Yes I was able to achieve the target model preformance uisng the keras_tuner libary to tune the model as best it can.</br> 
 What steps did you take in your attempts to increase model performance?
